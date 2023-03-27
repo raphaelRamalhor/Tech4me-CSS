@@ -1,0 +1,103 @@
+.capa{
+    height: 430px;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
+
+.my-bg{
+    background-color: #56626ed8
+}
+
+.aba{
+    color: #ffffff;
+    background-color: rgb(255, 255, 255);
+}
+
+/* Navigation Bar
+------------------------- */
+.logo{
+    text-align: center;
+    font-size: 1.5em;
+    padding-left: 50px;
+}
+
+.bar-style{
+    color: white;
+}
+
+.divisor{
+    width: 1px;
+    background: black;
+    margin: 12px 15px;
+}
+
+.barefect{
+    box-shadow: -5px -3px 8px 1px black;
+}
+
+
+/* Segunda Sessão 
+------------------------- */
+
+.imagens{
+    width: 200px;
+    height: auto;
+}
+
+.section2{
+    margin-top: 60px;
+    width: 280px;
+    height: 400px;
+    text-align: center;
+    background: #56626e7e;
+    padding: 20px;
+    border: 1px solid #56626ed8;
+    border-radius: 9px;
+}
+
+.quadro1{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.quadro2{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.quadro3{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.quadro4{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+
+/* Contato
+------------------------- */
+.contatos{
+    margin: 30px;
+}
+
+
+/* Footer
+------------------------- */
+.webfoot{
+    text-align: center;
+}
+
+footer{
+    color: white;
+    padding: 15px;
+}
+
+/* Typography
+------------------------- */
+span{
+    color: black;
+}

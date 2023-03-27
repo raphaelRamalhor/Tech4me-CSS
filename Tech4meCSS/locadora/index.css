@@ -1,0 +1,122 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#area-cabecalho{
+
+    text-align: center;
+    background: #dadada;
+    padding: 18px;
+    width: auto;   
+}
+
+.techflix{
+color: #da5230
+}
+
+#area-logo, #area-menu{
+    padding: 10px;
+}
+
+
+.ahead{
+    padding: 10px 10px;
+    margin-left: 50px;
+    text-decoration: none;
+    Text-align: center
+}
+
+
+.a{
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.ahead:link{
+    color: #da5230;
+}
+
+.ahead:visited{
+    color: #da5230;
+}
+
+.ahead:hover{
+    color: #dadada;
+    background: #da5230;
+}
+
+.ahead:active{
+    color: #da5230;
+}
+
+.logoestilo{
+    font-size: 40px;
+    text-shadow: 0.08em 0.08em #000000;
+    font-family: 'Pacifico', cursive;
+}
+
+/********************/
+
+.ajeit{
+    background: #000000;
+    
+}
+
+body{
+    background: #000000;
+
+
+}
+
+.imagem-galeria{
+    background: #dadada;
+    width: 265px;
+    padding: 5px;
+    float: left;
+    margin: 15px;
+}
+
+
+.divfilmes{
+    display: flex;
+    justify-content: center;
+    background: #dadada;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 10px;
+    border: 5px solid #da5230;
+}
+
+.divfilme1{
+    width: 30%;
+    margin: 10px;
+    
+    padding-left: 100px;
+}
+
+.divfilme2{
+    width: 30%;
+    margin: 10px;
+    padding-right: 100px;
+    
+}
+
+.imagens{
+    width: 400px;
+    height: 200px;
+    box-shadow: #000000;
+    text-shadow: 1em 1em #000000;
+    border-radius: 20px;
+    border: 6px solid #da5230;
+}
+
+#rodape{
+    clear: both;
+    text-align: left;
+    padding: 15px;
+    background: #CCC;
+}
